@@ -1,0 +1,1748 @@
+[
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 7,
+        "countryCode": "+91",
+        "countryEn": "India",
+        "countrySpa": "India",
+        "iso": "IN"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 5,
+        "countryCode": "+86",
+        "countryEn": "China",
+        "countrySpa": "China",
+        "iso": "CN"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "United States",
+        "countrySpa": "Estados Unidos",
+        "iso": "US"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 5,
+        "countryCode": "+62",
+        "countryEn": "Indonesia",
+        "countrySpa": "Indonesia",
+        "iso": "ID"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 8,
+        "countryCode": "+92",
+        "countryEn": "Pakistan",
+        "countrySpa": "Pakistán",
+        "iso": "PK"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 7,
+        "countryCode": "+234",
+        "countryEn": "Nigeria",
+        "countrySpa": "Nigeria",
+        "iso": "NG"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+55",
+        "countryEn": "Brazil",
+        "countrySpa": "Brasil",
+        "iso": "BR"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 6,
+        "countryCode": "+880",
+        "countryEn": "Bangladesh",
+        "countrySpa": "Bangladesh",
+        "iso": "BD"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+7",
+        "countryEn": "Russia",
+        "countrySpa": "Rusia",
+        "iso": "RU"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+251",
+        "countryEn": "Ethiopia",
+        "countrySpa": "Etiopía",
+        "iso": "ET"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+52",
+        "countryEn": "Mexico",
+        "countrySpa": "México",
+        "iso": "MX"
+    },
+    {
+        "phoneMaxLength": 13,
+        "phoneMinLength": 5,
+        "countryCode": "+81",
+        "countryEn": "Japan",
+        "countrySpa": "Japón",
+        "iso": "JP"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 7,
+        "countryCode": "+20",
+        "countryEn": "Egypt",
+        "countrySpa": "Egipto",
+        "iso": "EG"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 8,
+        "countryCode": "+63",
+        "countryEn": "Philippines",
+        "countrySpa": "Filipinas",
+        "iso": "PH"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 5,
+        "countryCode": "+243",
+        "countryEn": "DR Congo",
+        "countrySpa": "Congo (Rep. Dem.)",
+        "iso": "CD"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 7,
+        "countryCode": "+84",
+        "countryEn": "Vietnam",
+        "countrySpa": "Vietnam",
+        "iso": "VN"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 6,
+        "countryCode": "+98",
+        "countryEn": "Iran",
+        "countrySpa": "Iran",
+        "iso": "IR"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+90",
+        "countryEn": "Turkey",
+        "countrySpa": "Turquía",
+        "iso": "TR"
+    },
+    {
+        "phoneMaxLength": 13,
+        "phoneMinLength": 6,
+        "countryCode": "+49",
+        "countryEn": "Germany",
+        "countrySpa": "Alemania",
+        "iso": "DE"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+66",
+        "countryEn": "Thailand",
+        "countrySpa": "Tailandia",
+        "iso": "TH"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 7,
+        "countryCode": "+44",
+        "countryEn": "United Kingdom",
+        "countrySpa": "Reino Unido",
+        "iso": "GB"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+255",
+        "countryEn": "Tanzania",
+        "countrySpa": "Tanzania",
+        "iso": "TZ"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+33",
+        "countryEn": "France",
+        "countrySpa": "Francia",
+        "iso": "FR"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+27",
+        "countryEn": "South Africa",
+        "countrySpa": "República de Sudáfrica",
+        "iso": "ZA"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": null,
+        "countryCode": "+39",
+        "countryEn": "Italy",
+        "countrySpa": "Italia",
+        "iso": "IT"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 6,
+        "countryCode": "+254",
+        "countryEn": "Kenya",
+        "countrySpa": "Kenia",
+        "iso": "KE"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 7,
+        "countryCode": "+95",
+        "countryEn": "Myanmar",
+        "countrySpa": "Myanmar",
+        "iso": "MM"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 8,
+        "countryCode": "+57",
+        "countryEn": "Colombia",
+        "countrySpa": "Colombia",
+        "iso": "CO"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 8,
+        "countryCode": "+82",
+        "countryEn": "South Korea",
+        "countrySpa": "Corea del Sur",
+        "iso": "KR"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+249",
+        "countryEn": "Sudan",
+        "countrySpa": "Sudán",
+        "iso": "SD"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+256",
+        "countryEn": "Uganda",
+        "countrySpa": "Uganda",
+        "iso": "UG"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+34",
+        "countryEn": "Spain",
+        "countrySpa": "España",
+        "iso": "ES"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+213",
+        "countryEn": "Algeria",
+        "countrySpa": "Argelia",
+        "iso": "DZ"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 8,
+        "countryCode": "+964",
+        "countryEn": "Iraq",
+        "countrySpa": "Irak",
+        "iso": "IQ"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+54",
+        "countryEn": "Argentina",
+        "countrySpa": "Argentina",
+        "iso": "AR"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+93",
+        "countryEn": "Afghanistan",
+        "countrySpa": "Afganistán",
+        "iso": "AF"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 6,
+        "countryCode": "+967",
+        "countryEn": "Yemen",
+        "countrySpa": "Yemen",
+        "iso": "YE"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Canada",
+        "countrySpa": "Canadá",
+        "iso": "CA"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 6,
+        "countryCode": "+48",
+        "countryEn": "Poland",
+        "countrySpa": "Polonia",
+        "iso": "PL"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+212",
+        "countryEn": "Morocco",
+        "countrySpa": "Marruecos",
+        "iso": "MA"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+244",
+        "countryEn": "Angola",
+        "countrySpa": "Angola",
+        "iso": "AO"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+380",
+        "countryEn": "Ukraine",
+        "countrySpa": "Ucrania",
+        "iso": "UA"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+998",
+        "countryEn": "Uzbekistan",
+        "countrySpa": "Uzbekistán",
+        "iso": "UZ"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 7,
+        "countryCode": "+60",
+        "countryEn": "Malaysia",
+        "countrySpa": "Malasia",
+        "iso": "MY"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+258",
+        "countryEn": "Mozambique",
+        "countrySpa": "Mozambique",
+        "iso": "MZ"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 5,
+        "countryCode": "+233",
+        "countryEn": "Ghana",
+        "countrySpa": "Ghana",
+        "iso": "GH"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 8,
+        "countryCode": "+51",
+        "countryEn": "Peru",
+        "countrySpa": "Perú",
+        "iso": "PE"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+966",
+        "countryEn": "Saudi Arabia",
+        "countrySpa": "Arabia Saudí",
+        "iso": "SA"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 9,
+        "countryCode": "+261",
+        "countryEn": "Madagascar",
+        "countrySpa": "Madagascar",
+        "iso": "MG"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+225",
+        "countryEn": "Ivory Coast",
+        "countrySpa": "Costa de Marfil",
+        "iso": "CI"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+977",
+        "countryEn": "Nepal",
+        "countrySpa": "Nepal",
+        "iso": "NP"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+237",
+        "countryEn": "Cameroon",
+        "countrySpa": "Camerún",
+        "iso": "CM"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+58",
+        "countryEn": "Venezuela",
+        "countrySpa": "Venezuela",
+        "iso": "VE"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+227",
+        "countryEn": "Niger",
+        "countrySpa": "Níger",
+        "iso": "NE"
+    },
+    {
+        "phoneMaxLength": 15,
+        "phoneMinLength": 5,
+        "countryCode": "+61",
+        "countryEn": "Australia",
+        "countrySpa": "Australia",
+        "iso": "AU"
+    },
+    {
+        "phoneMaxLength": 17,
+        "phoneMinLength": 6,
+        "countryCode": "+850",
+        "countryEn": "North Korea",
+        "countrySpa": "Corea del Norte",
+        "iso": "KP"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 8,
+        "countryCode": "+963",
+        "countryEn": "Syria",
+        "countrySpa": "Siria",
+        "iso": "SY"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+223",
+        "countryEn": "Mali",
+        "countrySpa": "Mali",
+        "iso": "ML"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+226",
+        "countryEn": "Burkina Faso",
+        "countrySpa": "Burkina Faso",
+        "iso": "BF"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+886",
+        "countryEn": "Taiwan",
+        "countrySpa": "Taiwán",
+        "iso": "TW"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+94",
+        "countryEn": "Sri Lanka",
+        "countrySpa": "Sri Lanka",
+        "iso": "LK"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+265",
+        "countryEn": "Malawi",
+        "countrySpa": "Malawi",
+        "iso": "MW"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+260",
+        "countryEn": "Zambia",
+        "countrySpa": "Zambia",
+        "iso": "ZM"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+7",
+        "countryEn": "Kazakhstan",
+        "countrySpa": "Kazajistán",
+        "iso": "KZ"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+235",
+        "countryEn": "Chad",
+        "countrySpa": "Chad",
+        "iso": "TD"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+56",
+        "countryEn": "Chile",
+        "countrySpa": "Chile",
+        "iso": "CL"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+40",
+        "countryEn": "Romania",
+        "countrySpa": "Rumania",
+        "iso": "RO"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 5,
+        "countryCode": "+252",
+        "countryEn": "Somalia",
+        "countrySpa": "Somalia",
+        "iso": "SO"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+221",
+        "countryEn": "Senegal",
+        "countrySpa": "Senegal",
+        "iso": "SN"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+502",
+        "countryEn": "Guatemala",
+        "countrySpa": "Guatemala",
+        "iso": "GT"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+31",
+        "countryEn": "Netherlands",
+        "countrySpa": "Países Bajos",
+        "iso": "NL"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+593",
+        "countryEn": "Ecuador",
+        "countrySpa": "Ecuador",
+        "iso": "EC"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+855",
+        "countryEn": "Cambodia",
+        "countrySpa": "Camboya",
+        "iso": "KH"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 5,
+        "countryCode": "+263",
+        "countryEn": "Zimbabwe",
+        "countrySpa": "Zimbabue",
+        "iso": "ZW"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+224",
+        "countryEn": "Guinea",
+        "countrySpa": "Guinea",
+        "iso": "GN"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+229",
+        "countryEn": "Benin",
+        "countrySpa": "Benín",
+        "iso": "BJ"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+250",
+        "countryEn": "Rwanda",
+        "countrySpa": "Ruanda",
+        "iso": "RW"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+257",
+        "countryEn": "Burundi",
+        "countrySpa": "Burundi",
+        "iso": "BI"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+591",
+        "countryEn": "Bolivia",
+        "countrySpa": "Bolivia",
+        "iso": "BO"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+216",
+        "countryEn": "Tunisia",
+        "countrySpa": "Túnez",
+        "iso": "TN"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+509",
+        "countryEn": "Haiti",
+        "countrySpa": "Haití",
+        "iso": "HT"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+32",
+        "countryEn": "Belgium",
+        "countrySpa": "Bélgica",
+        "iso": "BE"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 5,
+        "countryCode": "+962",
+        "countryEn": "Jordan",
+        "countrySpa": "Jordania",
+        "iso": "JO"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Dominican Republic",
+        "countrySpa": "República Dominicana",
+        "iso": "DO"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+971",
+        "countryEn": "United Arab Emirates",
+        "countrySpa": "Emiratos Árabes Unidos",
+        "iso": "AE"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 6,
+        "countryCode": "+53",
+        "countryEn": "Cuba",
+        "countrySpa": "Cuba",
+        "iso": "CU"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+504",
+        "countryEn": "Honduras",
+        "countrySpa": "Honduras",
+        "iso": "HN"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 4,
+        "countryCode": "+420",
+        "countryEn": "Czech Republic"
+    },
+    {
+        "phoneMaxLength": 13,
+        "phoneMinLength": 7,
+        "countryCode": "+46",
+        "countryEn": "Sweden",
+        "countrySpa": "Suecia",
+        "iso": "SE"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+992",
+        "countryEn": "Tajikistan",
+        "countrySpa": "Tayikistán",
+        "iso": "TJ"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 4,
+        "countryCode": "+675",
+        "countryEn": "Papua New Guinea",
+        "countrySpa": "Papúa Nueva Guinea",
+        "iso": "PG"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 9,
+        "countryCode": "+351",
+        "countryEn": "Portugal",
+        "countrySpa": "Portugal",
+        "iso": "PT"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+994",
+        "countryEn": "Azerbaijan",
+        "countrySpa": "Azerbaiyán",
+        "iso": "AZ"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+30",
+        "countryEn": "Greece",
+        "countrySpa": "Grecia",
+        "iso": "GR"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+36",
+        "countryEn": "Hungary",
+        "countrySpa": "Hungría",
+        "iso": "HU"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+228",
+        "countryEn": "Togo",
+        "countrySpa": "Togo",
+        "iso": "TG"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+972",
+        "countryEn": "Israel",
+        "countrySpa": "Israel",
+        "iso": "IL"
+    },
+    {
+        "phoneMaxLength": 13,
+        "phoneMinLength": 4,
+        "countryCode": "+43",
+        "countryEn": "Austria",
+        "countrySpa": "Austria",
+        "iso": "AT"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 9,
+        "countryCode": "+375",
+        "countryEn": "Belarus",
+        "countrySpa": "Bielorrusia",
+        "iso": "BY"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 4,
+        "countryCode": "+41",
+        "countryEn": "Switzerland",
+        "countrySpa": "Suiza",
+        "iso": "CH"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+232",
+        "countryEn": "Sierra Leone",
+        "countrySpa": "Sierra Leone",
+        "iso": "SL"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 8,
+        "countryCode": "+856",
+        "countryEn": "Laos",
+        "countrySpa": "Laos",
+        "iso": "LA"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+993",
+        "countryEn": "Turkmenistan",
+        "countrySpa": "Turkmenistán",
+        "iso": "TM"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 4,
+        "countryCode": "+852",
+        "countryEn": "Hong Kong",
+        "countrySpa": "Hong Kong",
+        "iso": "HK"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 8,
+        "countryCode": "+218",
+        "countryEn": "Libya",
+        "countrySpa": "Libia",
+        "iso": "LY"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+996",
+        "countryEn": "Kyrgyzstan",
+        "countrySpa": "Kirguizistán",
+        "iso": "KG"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 5,
+        "countryCode": "+595",
+        "countryEn": "Paraguay",
+        "countrySpa": "Paraguay",
+        "iso": "PY"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+505",
+        "countryEn": "Nicaragua",
+        "countrySpa": "Nicaragua",
+        "iso": "NI"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 7,
+        "countryCode": "+359",
+        "countryEn": "Bulgaria",
+        "countrySpa": "Bulgaria",
+        "iso": "BG"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 4,
+        "countryCode": "+381",
+        "countryEn": "Serbia",
+        "countrySpa": "Serbia",
+        "iso": "RS"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 7,
+        "countryCode": "+503",
+        "countryEn": "El Salvador",
+        "countrySpa": "El Salvador",
+        "iso": "SV"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+45",
+        "countryEn": "Denmark",
+        "countrySpa": "Dinamarca",
+        "iso": "DK"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 8,
+        "countryCode": "+65",
+        "countryEn": "Singapore",
+        "countrySpa": "Singapur",
+        "iso": "SG"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+961",
+        "countryEn": "Lebanon",
+        "countrySpa": "Líbano",
+        "iso": "LB"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 5,
+        "countryCode": "+358",
+        "countryEn": "Finland",
+        "countrySpa": "Finlandia",
+        "iso": "FI"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+231",
+        "countryEn": "Liberia",
+        "countrySpa": "Liberia",
+        "iso": "LR"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 5,
+        "countryCode": "+47",
+        "countryEn": "Norway",
+        "countrySpa": "Noruega",
+        "iso": "NO"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 4,
+        "countryCode": "+421",
+        "countryEn": "Slovakia",
+        "countrySpa": "República Eslovaca",
+        "iso": "SK"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+236",
+        "countryEn": "Central African Republic",
+        "countrySpa": "República Centroafricana",
+        "iso": "CF"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+968",
+        "countryEn": "Oman",
+        "countrySpa": "Omán",
+        "iso": "OM"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 7,
+        "countryCode": "+353",
+        "countryEn": "Ireland",
+        "countrySpa": "Irlanda",
+        "iso": "IE"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 3,
+        "countryCode": "+64",
+        "countryEn": "New Zealand",
+        "countrySpa": "Nueva Zelanda",
+        "iso": "NZ"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+222",
+        "countryEn": "Mauritania",
+        "countrySpa": "Mauritania",
+        "iso": "MR"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+506",
+        "countryEn": "Costa Rica",
+        "countrySpa": "Costa Rica",
+        "iso": "CR"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+965",
+        "countryEn": "Kuwait",
+        "countrySpa": "Kuwait",
+        "iso": "KW"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+507",
+        "countryEn": "Panama",
+        "countrySpa": "Panamá",
+        "iso": "PA"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 8,
+        "countryCode": "+385",
+        "countryEn": "Croatia",
+        "countrySpa": "Croacia",
+        "iso": "HR"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+995",
+        "countryEn": "Georgia",
+        "countrySpa": "Georgia",
+        "iso": "GE"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+291",
+        "countryEn": "Eritrea",
+        "countrySpa": "Eritrea",
+        "iso": "ER"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+976",
+        "countryEn": "Mongolia",
+        "countrySpa": "Mongolia",
+        "iso": "MN"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 4,
+        "countryCode": "+598",
+        "countryEn": "Uruguay",
+        "countrySpa": "Uruguay",
+        "iso": "UY"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Puerto Rico",
+        "countrySpa": "Puerto Rico",
+        "iso": "PR"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+387",
+        "countryEn": "Bosnia and Herzegovina",
+        "countrySpa": "Bosnia y Herzegovina",
+        "iso": "BA"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 3,
+        "countryCode": "+974",
+        "countryEn": "Qatar",
+        "countrySpa": "Catar",
+        "iso": "QA"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+373",
+        "countryEn": "Moldova",
+        "countrySpa": "Moldavia",
+        "iso": "MD"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 6,
+        "countryCode": "+264",
+        "countryEn": "Namibia",
+        "countrySpa": "Namibia",
+        "iso": "NA"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+374",
+        "countryEn": "Armenia",
+        "countrySpa": "Armenia",
+        "iso": "AM"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+370",
+        "countryEn": "Lithuania",
+        "countrySpa": "Lituania",
+        "iso": "LT"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Jamaica",
+        "countrySpa": "Jamaica",
+        "iso": "JM"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 3,
+        "countryCode": "+355",
+        "countryEn": "Albania",
+        "countrySpa": "Albania",
+        "iso": "AL"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+220",
+        "countryEn": "Gambia",
+        "countrySpa": "Gambia",
+        "iso": "GM"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 6,
+        "countryCode": "+241",
+        "countryEn": "Gabon",
+        "countrySpa": "Gabón",
+        "iso": "GA"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+267",
+        "countryEn": "Botswana",
+        "countrySpa": "Botswana",
+        "iso": "BW"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+266",
+        "countryEn": "Lesotho",
+        "countrySpa": "Lesotho",
+        "iso": "LS"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+386",
+        "countryEn": "Slovenia",
+        "countrySpa": "Eslovenia",
+        "iso": "SI"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+240",
+        "countryEn": "Equatorial Guinea",
+        "countrySpa": "Guinea Ecuatorial",
+        "iso": "GQ"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+371",
+        "countryEn": "Latvia",
+        "countrySpa": "Letonia",
+        "iso": "LV"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+973",
+        "countryEn": "Bahrain",
+        "countrySpa": "Bahrein",
+        "iso": "BH"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Trinidad and Tobago",
+        "countrySpa": "Trinidad y Tobago",
+        "iso": "TT"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 7,
+        "countryCode": "+372",
+        "countryEn": "Estonia",
+        "countrySpa": "Estonia",
+        "iso": "EE"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 8,
+        "countryCode": "+357",
+        "countryEn": "Cyprus",
+        "countrySpa": "Chipre",
+        "iso": "CY"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+230",
+        "countryEn": "Mauritius",
+        "countrySpa": "Mauricio",
+        "iso": "MU"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+268",
+        "countryEn": "Eswatini",
+        "countrySpa": "Suazilandia",
+        "iso": "SZ"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+253",
+        "countryEn": "Djibouti",
+        "countrySpa": "Djibouti",
+        "iso": "DJ"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+679",
+        "countryEn": "Fiji",
+        "countrySpa": "Fiyi",
+        "iso": "FJ"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+269",
+        "countryEn": "Comoros",
+        "countrySpa": "Comoras",
+        "iso": "KM"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+592",
+        "countryEn": "Guyana",
+        "countrySpa": "Guyana",
+        "iso": "GY"
+    },
+    {
+        "phoneMaxLength": 5,
+        "phoneMinLength": 5,
+        "countryCode": "+677",
+        "countryEn": "Solomon Islands",
+        "countrySpa": "Islas Salomón",
+        "iso": "SB"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+975",
+        "countryEn": "Bhutan",
+        "countrySpa": "Bután",
+        "iso": "BT"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+853",
+        "countryEn": "Macau",
+        "countrySpa": "Macao",
+        "iso": "MO"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": 4,
+        "countryCode": "+352",
+        "countryEn": "Luxembourg",
+        "countrySpa": "Luxemburgo",
+        "iso": "LU"
+    },
+    {
+        "phoneMaxLength": 12,
+        "phoneMinLength": 4,
+        "countryCode": "+382",
+        "countryEn": "Montenegro",
+        "countrySpa": "Montenegro",
+        "iso": "ME"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 6,
+        "countryCode": "+597",
+        "countryEn": "Suriname",
+        "countrySpa": "Surinam",
+        "iso": "SR"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+356",
+        "countryEn": "Malta",
+        "countrySpa": "Malta",
+        "iso": "MT"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+960",
+        "countryEn": "Maldives",
+        "countrySpa": "Maldivas",
+        "iso": "MV"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+238",
+        "countryEn": "Cape Verde",
+        "countrySpa": "Cabo Verde",
+        "iso": "CV"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+673",
+        "countryEn": "Brunei",
+        "countrySpa": "Brunei",
+        "iso": "BN"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+501",
+        "countryEn": "Belize",
+        "countrySpa": "Belice",
+        "iso": "BZ"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Bahamas",
+        "countrySpa": "Bahamas",
+        "iso": "BS"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 7,
+        "countryCode": "+354",
+        "countryEn": "Iceland",
+        "countrySpa": "Islandia",
+        "iso": "IS"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+590",
+        "countryEn": "Guadeloupe",
+        "countrySpa": "Guadalupe",
+        "iso": "GP"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+596",
+        "countryEn": "Martinique",
+        "countrySpa": "Martinica",
+        "iso": "MQ"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 5,
+        "countryCode": "+678",
+        "countryEn": "Vanuatu",
+        "countrySpa": "Vanuatu",
+        "iso": "VU"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 9,
+        "countryCode": "+594",
+        "countryEn": "French Guiana",
+        "countrySpa": "Guayana Francesa",
+        "iso": "GF"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+687",
+        "countryEn": "New Caledonia",
+        "countrySpa": "Nueva Caledonia",
+        "iso": "NC"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Barbados",
+        "countrySpa": "Barbados",
+        "iso": "BB"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+689",
+        "countryEn": "French Polynesia",
+        "countrySpa": "Polinesia Francesa",
+        "iso": "PF"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+239",
+        "countryEn": "Sao Tome and Principe"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 3,
+        "countryCode": "+685",
+        "countryEn": "Samoa",
+        "countrySpa": "Samoa",
+        "iso": "WS"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 7,
+        "countryCode": "+599",
+        "countryEn": "Curacao"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Saint Lucia",
+        "countrySpa": "Santa Lucía",
+        "iso": "LC"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Guam",
+        "countrySpa": "Guam",
+        "iso": "GU"
+    },
+    {
+        "phoneMaxLength": 5,
+        "phoneMinLength": 5,
+        "countryCode": "+686",
+        "countryEn": "Kiribati",
+        "countrySpa": "Kiribati",
+        "iso": "KI"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+248",
+        "countryEn": "Seychelles",
+        "countrySpa": "Seychelles",
+        "iso": "SC"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Grenada",
+        "countrySpa": "Grenada",
+        "iso": "GD"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+691",
+        "countryEn": "Micronesia",
+        "countrySpa": "Micronesia",
+        "iso": "FM"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+297",
+        "countryEn": "Aruba",
+        "countrySpa": "Aruba",
+        "iso": "AW"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 5,
+        "countryCode": "+676",
+        "countryEn": "Tonga",
+        "countrySpa": "Tonga",
+        "iso": "TO"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Saint Vincent and the Grenadines",
+        "countrySpa": "San Vicente y Granadinas",
+        "iso": "VC"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Antigua and Barbuda",
+        "countrySpa": "Antigua y Barbuda",
+        "iso": "AG"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "United States Virgin Islands",
+        "countrySpa": "Islas Vírgenes de los Estados Unidos",
+        "iso": "VI"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 6,
+        "countryCode": "+376",
+        "countryEn": "Andorra",
+        "countrySpa": "Andorra",
+        "iso": "AD"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Cayman Islands",
+        "countrySpa": "Islas Caimán",
+        "iso": "KY"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Dominica",
+        "countrySpa": "Dominica",
+        "iso": "DM"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Bermuda",
+        "countrySpa": "Bermudas",
+        "iso": "BM"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+299",
+        "countryEn": "Greenland",
+        "countrySpa": "Groenlandia",
+        "iso": "GL"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+298",
+        "countryEn": "Faroe Islands",
+        "countrySpa": "Islas Faroe",
+        "iso": "FO"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Saint Kitts and Nevis",
+        "countrySpa": "San Cristóbal y Nieves",
+        "iso": "KN"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "American Samoa",
+        "countrySpa": "Samoa Americana",
+        "iso": "AS"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Turks and Caicos Islands",
+        "countrySpa": "Islas Turks y Caicos",
+        "iso": "TC"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Sint Maarten",
+        "countrySpa": "Sint Maarten",
+        "iso": "SX"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 7,
+        "countryCode": "+423",
+        "countryEn": "Liechtenstein",
+        "countrySpa": "Liechtenstein",
+        "iso": "LI"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "British Virgin Islands",
+        "countrySpa": "Islas Vírgenes del Reino Unido",
+        "iso": "VG"
+    },
+    {
+        "phoneMaxLength": 8,
+        "phoneMinLength": 8,
+        "countryCode": "+350",
+        "countryEn": "Gibraltar",
+        "countrySpa": "Gibraltar",
+        "iso": "GI"
+    },
+    {
+        "phoneMaxLength": 9,
+        "phoneMinLength": 5,
+        "countryCode": "+377",
+        "countryEn": "Monaco",
+        "countrySpa": "Mónaco",
+        "iso": "MC"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+692",
+        "countryEn": "Marshall Islands",
+        "countrySpa": "Islas Marshall",
+        "iso": "MH"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 6,
+        "countryCode": "+378",
+        "countryEn": "San Marino",
+        "countrySpa": "San Marino",
+        "iso": "SM"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 7,
+        "countryCode": "+680",
+        "countryEn": "Palau",
+        "countrySpa": "Palau",
+        "iso": "PW"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Anguilla",
+        "countrySpa": "Anguilla",
+        "iso": "AI"
+    },
+    {
+        "phoneMaxLength": 5,
+        "phoneMinLength": 5,
+        "countryCode": "+682",
+        "countryEn": "Cook Islands",
+        "countrySpa": "Islas Cook",
+        "iso": "CK"
+    },
+    {
+        "phoneMaxLength": 7,
+        "phoneMinLength": 4,
+        "countryCode": "+674",
+        "countryEn": "Nauru",
+        "countrySpa": "Nauru",
+        "iso": "NR"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+681",
+        "countryEn": "Wallis and Futuna",
+        "countrySpa": "Wallis y Futuna",
+        "iso": "WF"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 5,
+        "countryCode": "+688",
+        "countryEn": "Tuvalu",
+        "countrySpa": "Tuvalu",
+        "iso": "TV"
+    },
+    {
+        "phoneMaxLength": 6,
+        "phoneMinLength": 6,
+        "countryCode": "+508",
+        "countryEn": "Saint Pierre and Miquelon",
+        "countrySpa": "San Pedro y Miquelón",
+        "iso": "PM"
+    },
+    {
+        "phoneMaxLength": 10,
+        "phoneMinLength": 10,
+        "countryCode": "+1",
+        "countryEn": "Montserrat",
+        "countrySpa": "Montserrat",
+        "iso": "MS"
+    },
+    {
+        "phoneMaxLength": 5,
+        "phoneMinLength": 5,
+        "countryCode": "+500",
+        "countryEn": "Falkland Islands",
+        "countrySpa": "Islas Malvinas",
+        "iso": "FK"
+    },
+    {
+        "phoneMaxLength": 4,
+        "phoneMinLength": 4,
+        "countryCode": "+690",
+        "countryEn": "Tokelau",
+        "countrySpa": "Islas Tokelau",
+        "iso": "TK"
+    },
+    {
+        "phoneMaxLength": 4,
+        "phoneMinLength": 4,
+        "countryCode": "+683",
+        "countryEn": "Niue",
+        "countrySpa": "Niue",
+        "iso": "NU"
+    },
+    {
+        "phoneMaxLength": 11,
+        "phoneMinLength": null,
+        "countryCode": "+39",
+        "countryEn": "Vatican City",
+        "countrySpa": "Ciudad del Vaticano",
+        "iso": "VA"
+    }
+]

@@ -1,0 +1,5 @@
+/node_modules
+package-lock.json
+barq_subs_active.csv
+invalid_phones.csv
+validated_phones.csv
