@@ -47,9 +47,17 @@ for (const record of records) {
       formattedNumber = formattedNumber.replace(/\s+/g, "");
 
       // Modifica el número para Argentina y México
-      if (countryIso === "AR" && formattedNumber.startsWith("+54")) {
+      if (
+        countryIso === "AR" &&
+        formattedNumber.startsWith("+54") &&
+        !formattedNumber.startsWith("+549")
+      ) {
         formattedNumber = formattedNumber.replace("+54", "+549");
-      } else if (countryIso === "MX" && formattedNumber.startsWith("+52")) {
+      } else if (
+        countryIso === "MX" &&
+        formattedNumber.startsWith("+52") &&
+        !formattedNumber.startsWith("+521")
+      ) {
         formattedNumber = formattedNumber.replace("+52", "+521");
       }
 
