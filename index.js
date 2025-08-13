@@ -3,13 +3,24 @@ import { parse } from "csv-parse/sync";
 import { stringify } from "csv-stringify/sync";
 import parsePhoneNumber from "libphonenumber-js/max";
 
+const filesRootDir = "./files/todos_2025/30-07/"; // Directorio de archivos
+const leadsFileName = "leads_interesados.csv"; // Nombre del archivo de leads
+const phonesColName = "Teléfono"; // Nombre de la columna de teléfonos
+const countriesColName = "País"; // Nombre de la columna de países
+const locationColName = "Ubicación"; // Nombre de la columna de ubicación
+const formattedPhonesColName = "Teléfono Formateado"; // Nombre de la columna de teléfonos formateados
+const diploColName = "Ultima Cursando"; // Nombre de la columna de diplomado
+const validatedFileName = "leads_validos.csv";
+const invalidFileName = "leads_invalidos.csv";
+
 // Lee el archivo CSV
-const csvData = fs.readFileSync("barq_subs_active.csv", "utf8");
+const csvData = fs.readFileSync(filesRootDir + leadsFileName, "utf8");
 
 // Configura las opciones de parseo de CSV
 const records = parse(csvData, {
   columns: true, // Asume que la primera fila contiene los nombres de las columnas
   skip_empty_lines: true,
+  delimiter: ";",
 });
 
 // Lee el archivo JSON de forma sincrónica
@@ -21,8 +32,13 @@ let incorrectPhones = [];
 
 // Itera sobre los registros del CSV
 for (const record of records) {
-  const phoneNumber = record["Phone"];
-  const country = record["Country"];
+  const phoneNumber = record[phonesColName]; //Phone number
+  let country = record[countriesColName]; //Country
+  const location = record[locationColName]; //Location
+
+  if (!country && location) {
+    country = location;
+  }
 
   const matchingCountry = phonesData.find(
     (countryData) =>
@@ -61,7 +77,7 @@ for (const record of records) {
         formattedNumber = formattedNumber.replace("+52", "+521");
       }
 
-      record["FormattedPhone"] = formattedNumber;
+      record[formattedPhonesColName] = formattedNumber;
 
       correctPhones.push(record);
     } else {
@@ -74,8 +90,8 @@ for (const record of records) {
 
 // Escribir los registros válidos en un archivo CSV
 const validCsvString = stringify(correctPhones, { header: true });
-fs.writeFileSync("validated_phones.csv", validCsvString);
+fs.writeFileSync(filesRootDir + validatedFileName, validCsvString);
 
 // Escribir los registros inválidos en un archivo CSV
 const invalidCsvString = stringify(incorrectPhones, { header: true });
-fs.writeFileSync("invalid_phones.csv", invalidCsvString);
+fs.writeFileSync(filesRootDir + invalidFileName, invalidCsvString);
